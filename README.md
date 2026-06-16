@@ -108,7 +108,7 @@ The network is built upon a pre-trained **ResNet-50 (IMAGENET1K_V2)** backbone.
 1.  **Clone the repository and enter directory**:
     ```bash
     git clone <repository_url>
-    cd AgriDoc_CNN_Training
+    cd tomato_disease_classification
     ```
 
 2.  **Set up virtual environment & install requirements**:
